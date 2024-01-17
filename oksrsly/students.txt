@@ -1,0 +1,6 @@
+5,John,Doe,3.4
+10,Janet,Doe,2.8
+17,Ali,Kaya,3.0
+20,Xiu,Li,3.5
+30,Jennifer,Long,2.4
+42,Saima,Rahman,3.3
